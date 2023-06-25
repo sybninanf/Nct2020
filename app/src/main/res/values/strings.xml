@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">NCT 127</string>
+
+    <string name="nct_name">Nama-Nama NCT 127</string>
+    <string name="description">Deskripsi</string>
+    <string name="bio">We can because we have intention</string>
+    <string name="name">Syabina Nur Pajriyanti</string>
+    <string name="email">syabinanf25@gmail.com</string>
+    <string name="profile">Profile</string>
+    <string name="info">Info</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="nct_identity">Identitas Member NCT</string>
+    <string name="content_rank">Value rank</string>
+    <string name="title_identity">Nama  \n\nTanggal Lahir \n\nZodiak \n\nTempat Asal \n\nSub-unit \n\nInstagram </string>
+    <string name="content_identity">content identity</string>
+    <string name="NCT_overview">Deskripsi</string>
+    <string name="content_overview">content overview</string>
+
+<!--    <string-array name="data_name">-->
+<!--        <item>Moon Taeil</item>-->
+<!--        <item>Jhonny Suh</item>-->
+<!--        <item>Lee Taeyoung</item>-->
+<!--        <item>Kim Doyoung</item>-->
+<!--        <item>Nakamoto Yuta</item>-->
+<!--        <item>Jeong Jaehyun</item>-->
+<!--        <item>Dong Sicheng</item>-->
+<!--        <item>Kim Jungwoo</item>-->
+<!--        <item>Mark Lee</item>-->
+<!--        <item>Lee Haechan</item>-->
+<!--    </string-array>-->
+
+<!--    <string-array name="data_description">-->
+<!--        <item>Moon Tae-il (Korean: 문태일, born June 14, 1994), known mononymously as Taeil, is a South Korean singer. He is the main vocalist of the South Korean boy group NCT and its sub-units NCT U and NCT 127 under the label SM Entertainment. Taeil made his debut in April 2016 in the rotational unit NCT U and became a member of the Seoul-based unit NCT 127 in July 2016.</item>-->
+<!--        <item>John Suh (Korean name: Seo Yeong-ho; in Hangul: 서영호) known by his stage name JOHNNY (Hangul: 쟈니) is a Korean-American singer and rapper, born in Chicago, Illinois on February 9, 1995. He is a sub-vocalist and a rapper of NCT 127 and NCT U.</item>-->
+<!--        <item>Lee Tae-yong (Korean: 이태용; born July 1, 1995), known mononymously as Taeyong, is a South Korean rapper, singer, songwriter, and dancer. He is a member and leader of South Korean boy band NCT under SM Entertainment, having debuted in the group\'s first sub-unit, NCT U, in 2016 and becoming the leader of its second sub-unit, NCT 127, later that year. In 2019, he debuted as a member of the South Korean supergroup SuperM, a joint project under SM Entertainment and Capitol Records, and released his first solo single, "Long Flight". As a songwriter, Taeyong has participated in writing over 40 songs in four languages, released mostly by NCT's various units and himself as a soloist.</item>-->
+<!--        <item>Kim Dong-young (Korean: 김동영; born February 1, 1996), professionally known as Doyoung (Korean: 도영), is a South Korean singer, actor, and host. He is best known as a member of the South Korean boy group NCT and its sub-units NCT U and NCT 127.</item>-->
+<!--        <item>Yuta Nakamoto (中本悠太, Nakamoto Yūta, born October 26, 1995), known professionally as Yuta (Korean: 유타), is a Japanese singer, actor, and radio host based in South Korea.</item>-->
+<!--        <item>Jaehyun was born on February 14, 1997, in Seocho District, Seoul, South Korea. Although he was born Jeong Jae-hyun (정재현), he later legally changed his name to Jeong Yun-o (정윤오). Between the ages of 5 and 10, Jaehyun lived and studied in Connecticut in the United States and went by the English name Jay Jeong.</item>-->
+<!--        <item>Dǒng Sīchéng (董思成) atau Winwin (윈윈) (lahir 28 Oktober 1997) adalah seorang penyanyi Tiongkok di bawah kontrak SM Entertainment. Ia adalah anggota grup vokal laki-laki NCT dan sub-unit NCT 127, NCT U dan WayV.</item>-->
+<!--        <item>Kim Jung-woo (Hangul: 김정우) referred to as JUNGWOO (Hangul: 정우) is a South Korean singer and dancer born in Sanbon-dong, Gunpo-si, Gyeonggi-do on February 19, 1998 and grew up in Gimpo-si, Gyeonggi-do. He is the main vocalist and the lead dancer of NCT U, and the lead vocalist and lead dancer of NCT 127.</item>-->
+<!--        <item>Mark Lee (born August 2, 1999), professionally known as Mark, is a Canadian rapper, singer, dancer and songwriter based in South Korea. He is a member of the South Korean boy band NCT and its fixed sub-units NCT 127 and NCT Dream, as well as the South Korean supergroup SuperM.</item>-->
+<!--        <item>Lee Dong-hyuck (Hangul: 이동혁) known by his stage name HAECHAN (Hangul: 해찬) is a South Korean singer and dancer born in Seoul on June 6, 2000 (he later moved to Jeju Island with his family and grew up there before becoming a trainee). He is the main vocalist and the lead dancer of NCT 127, NCT DREAM, and NCT U.</item>-->
+<!--    </string-array>-->
+
+<!--    <integer-array name="data_photo">-->
+<!--        <item>@drawable/taeil_thumbnail</item>-->
+<!--        <item>@drawable/jhonny_thumbnail</item>-->
+<!--        <item>@drawable/ty_thumbnail</item>-->
+<!--        <item>@drawable/dy_thumbnail</item>-->
+<!--        <item>@drawable/yt_thumbnail</item>-->
+<!--        <item>@drawable/jh_thumbnail</item>-->
+<!--        <item>@drawable/ww_thumbnail</item>-->
+<!--        <item>@drawable/jw_thumbnail</item>-->
+<!--        <item>@drawable/mark_thumbnail</item>-->
+<!--        <item>@drawable/hc_thumbnail</item>-->
+<!--    </integer-array>-->
+</resources>

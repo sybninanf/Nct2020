@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.nct2020.DetailActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+
+                <RelativeLayout
+                    android:id="@+id/relativeLayout"
+                    android:layout_width="522dp"
+                    android:layout_height="wrap_content">
+
+                    <ImageView
+                        android:id="@+id/ivPhoto"
+                        android:layout_width="338dp"
+                        android:layout_height="180dp"
+                        android:layout_alignParentEnd="true"
+                        android:layout_marginTop="8dp"
+                        android:layout_marginEnd="13dp"
+                        android:background="@color/grey"
+                        android:scaleType="fitStart"
+                        tools:src="@drawable/jh_detail" />
+
+
+                </RelativeLayout>
+
+            <TextView
+                android:id="@+id/txtname"
+                android:layout_width="287dp"
+                android:layout_height="69dp"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_marginTop="213dp"
+                android:layout_marginEnd="64dp"
+                android:font="@font/nunito_bold"
+                android:text="Jeong Jaehyun"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+
+            <TableRow
+                android:layout_width="289dp"
+                android:layout_height="44dp"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginStart="63dp"
+                android:layout_marginTop="332dp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/textView22"
+                    android:layout_width="145dp"
+                    android:layout_height="41dp"
+                    android:layout_centerVertical="true"
+                    android:text="Born" />
+
+                <TextView
+                    android:id="@+id/txtttl"
+                    android:layout_width="145dp"
+                    android:layout_height="41dp"
+                    android:layout_marginTop="0dp"
+                    android:layout_marginEnd="0dp"
+                    android:text="TextView" />
+
+            </TableRow>
+
+            <TableRow
+                android:layout_width="289dp"
+                android:layout_height="41dp"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentBottom="true"
+                android:layout_marginStart="63dp"
+                android:layout_marginBottom="307dp">
+
+                <TextView
+                    android:id="@+id/textView27"
+                    android:layout_width="145dp"
+                    android:layout_height="match_parent"
+                    android:text="Zodiac" />
+
+                <TextView
+                    android:id="@+id/txtzodiak"
+                    android:layout_width="144dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginEnd="0dp"
+                    android:layout_marginBottom="0dp"
+                    android:text="TextView" />
+
+            </TableRow>
+
+            <TableRow
+                android:layout_width="289dp"
+                android:layout_height="41dp"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentBottom="true"
+                android:layout_marginStart="63dp"
+                android:layout_marginBottom="257dp">
+
+                <TextView
+                    android:id="@+id/textView29"
+                    android:layout_width="141dp"
+                    android:layout_height="match_parent"
+                    android:text="Position" />
+
+                <TextView
+                    android:id="@+id/txtjabatan"
+                    android:layout_width="149dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginEnd="0dp"
+                    android:layout_marginBottom="0dp"
+                    android:text="TextView" />
+
+            </TableRow>
+
+            <TableRow
+                android:layout_width="289dp"
+                android:layout_height="41dp"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentBottom="true"
+                android:layout_marginStart="63dp"
+                android:layout_marginBottom="208dp">
+
+                <TextView
+                    android:id="@+id/textView32"
+                    android:layout_width="147dp"
+                    android:layout_height="match_parent"
+                    android:text="Sub-Unit" />
+
+                <TextView
+                    android:id="@+id/txtsub"
+                    android:layout_width="142dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginEnd="0dp"
+                    android:layout_marginBottom="0dp"
+                    android:text="TextView" />
+
+            </TableRow>
+
+            <TableRow
+                android:layout_width="289dp"
+                android:layout_height="41dp"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentBottom="true"
+                android:layout_marginStart="63dp"
+                android:layout_marginBottom="158dp">
+
+                <TextView
+                    android:id="@+id/textView35"
+                    android:layout_width="142dp"
+                    android:layout_height="match_parent"
+                    android:text="Instagram" />
+
+                <TextView
+                    android:id="@+id/txtig"
+                    android:layout_width="141dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginEnd="0dp"
+                    android:layout_marginBottom="0dp"
+                    android:text="TextView" />
+
+            </TableRow>
+
+            <TextView
+                android:id="@+id/textView36"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginStart="39dp"
+                android:layout_marginTop="598dp"
+                android:fontFamily="@font/nunito_semibold"
+                android:text="About"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/txtdes"
+                android:layout_width="278dp"
+                android:layout_height="42dp"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentBottom="true"
+                android:layout_marginStart="38dp"
+                android:layout_marginBottom="52dp"
+                android:text="TextView" />
+
+        </RelativeLayout>
+    </ScrollView>
+        </RelativeLayout>
